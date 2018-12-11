@@ -1,0 +1,9 @@
+theme: jekyll-theme-primer
+title: Twitter Bot Detection
+description: Twitter Bot Detection
+baseurl:
+markdown: kramdown
+kramdown:
+    math_engine: mathjax
+    input: GFM
+    syntax_highlighter: rouge
